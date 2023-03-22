@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Thomas Parra.
 #### Data Science and Analytics
-![Data Science and Analytics](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
 
 Mechanical engineer from colombia doing Data Science and Analytics. I have experience using a variety of tools and software to analyze and interpret data such as Python, sql, Excel, Power Bi, Tableau, and Holistics among others.
 
