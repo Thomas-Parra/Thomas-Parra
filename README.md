@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Thomas Parra.
 #### Data Science and Analytics
 
-Mechanical engineer from colombia doing Data Science and Analytics. I have experience using a variety of tools and software to analyze and interpret data such as Python, sql, Excel, Power Bi, Tableau, and Holistics among others.
+Mechanical engineer from colombia doing Data Science and Analytics. I have experience using a variety of tools and software to analyze and interpret data such as Python, sql, Excel, Power Bi, Tableau, and Holistics among others. Proficient in Scrum framework and project management methodologies. 
 
 Skills: 
 
